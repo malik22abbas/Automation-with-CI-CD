@@ -1,0 +1,19 @@
+{
+  
+  "incorrect_email": "test_gmail.com",
+  "incorrect_password": "hello144",
+
+  
+  "Email": "helloworld@gmail.com",
+  "Password": "Helloworld12",
+
+  "Text": "Testing",
+
+  "country": "United States",
+  "state": "Alabama",
+  "city": "New York",
+
+  "size": "8",
+  "search":"Shoes",
+  "InvalidData": "*()$^@"
+}
